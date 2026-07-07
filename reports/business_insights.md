@@ -71,8 +71,36 @@ Technology products contribute the largest share of revenue and should remain a 
 - Review the **pricing and discount strategy** for the **Tables** sub-category.
 - Analyze **shipping**, **procurement**, and **operational costs** for loss-making products.
 - Prioritize investment in consistently profitable sub-categories such as:
-  - Copiers
-  - Phones
-  - Accessories
-  - Paper
+- Copiers
+- Phones
+- Accessories
+- Paper
 - Implement automated alerts to identify products with **high sales but negative profit**, enabling faster corrective action.
+
+## Question 4: Do discounts affect the profitability of Tables?
+
+### Findings
+
+| Discount | Average Profit |
+|----------|---------------:|
+| 0% | **+$184.39** |
+| 20% | **-$4.28** |
+| 30% | **-$63.01** |
+| 40% | **-$215.83** |
+| 45% | **-$226.65** |
+| 50% | **-$239.32** |
+
+### Business Interpretation
+
+- Tables are profitable when sold without any discount.
+- Profit becomes negative once the discount reaches **20%**.
+- As the discount percentage increases, the average profit consistently decreases.
+- At a **50% discount**, each order incurs an average loss of approximately **$239**.
+- This analysis strongly indicates that aggressive discounting is a key driver of losses in the Tables sub-category.
+
+### Business Recommendation
+
+- Limit discounts on Tables to improve profitability.
+- Review the current discount policy and establish approval limits for high-discount orders.
+- Consider alternative promotional strategies, such as bundle offers or loyalty rewards, instead of deep price reductions.
+- Conduct further analysis to determine whether specific customer segments or regions are responsible for the high-discount, loss-making orders.
